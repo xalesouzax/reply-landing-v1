@@ -10,12 +10,17 @@ body {
 
 }
 
-@font-face {
+/*@font-face {
 
     font-family: hkg-regular;
     src: url(../font/HKGrotesk-Regular.otf);
 }
 
+@font-face {
+
+    font-family: hkg-bold;
+    src: url(../font/HKGrotesk-Bold.otf);
+}*/
 
 p {
 
