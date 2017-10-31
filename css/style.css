@@ -19,14 +19,9 @@ p {
 
 }
 
-.first-view-size1{
+.first-view-size{
 
-	height: 90vh
-}
-
-.first-view-size2{
-
-	height: 10vh
+	height: 100vh
 }
 
 .page-bg {
@@ -43,18 +38,20 @@ p {
 
 	display: block;
 	margin: auto;
-	padding-top: 15%;
+	padding-top: 18%;
 
 }
 
-.form {
 
-	position: absolute;
-	float: bottom;
-	z-index: 1;
 
-	background-color: white;
-	text-align: center;
-	width: 100%;
 
-}
+
+
+
+
+
+
+
+
+
+
