@@ -1,0 +1,60 @@
+* {
+
+	box-sizing: border-box;
+
+}
+
+@font-face {
+
+    font-family: hkg-regular;
+    src: url(../font/HKGrotesk-Regular.otf);
+}
+
+
+p {
+
+	font-family: hkg-regular;
+	font-weight: 400;
+	font-size: 18px;
+
+}
+
+.first-view-size1{
+
+	height: 90vh
+}
+
+.first-view-size2{
+
+	height: 10vh
+}
+
+.page-bg {
+
+	background: #FF0B75; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(#FF0B75 top, #FA9D31); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #FF0B75, #FA9D31); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #FF0B75, #FA9D31); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #FF0B75, #FA9D31); /* Standard syntax (must be last) */
+
+}
+
+.logo {
+
+	display: block;
+	margin: auto;
+	padding-top: 15%;
+
+}
+
+.form {
+
+	position: absolute;
+	float: bottom;
+	z-index: 1;
+
+	background-color: white;
+	text-align: center;
+	width: 100%;
+
+}
